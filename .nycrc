@@ -1,4 +1,5 @@
 {
-  "extends": "packages/dev-config/nyc",
-  "exclude": ["**/vendor/**/*", "**/*.ts", "**/*.test.js"]
+  "nyc": {
+    "extends": "@salesforce/dev-config/nyc"
+  }
 }
