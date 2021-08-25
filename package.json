@@ -23,6 +23,8 @@
     "/typedoc.js"
   ],
   "scripts": {
+    "build": "echo 'no build necessary'",
+    "test": "echo 'no test necessary'",
     "clean-all": "shx rm -rf node_modules"
   },
   "devDependencies": {
