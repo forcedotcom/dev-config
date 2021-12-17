@@ -1,7 +1,18 @@
-# Change Log
+# Changelog
 
-All notable changes to this project will be documented in this file.
-See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### 2.1.3 (2021-12-17)
+
+
+### Features
+
+* configurations ([50f959b](https://github.com/forcedotcom/dev-config/commit/50f959b2fe99508a8a0c8b460dc4bf2c22e6abe6))
+
+
+### Bug Fixes
+
+* set code coverage to 50% ([#3](https://github.com/forcedotcom/dev-config/issues/3)) ([c9d2d62](https://github.com/forcedotcom/dev-config/commit/c9d2d6210dade817963e743648670c8d50ffb646))
 
 ## [2.1.2](https://github.com/forcedotcom/sfdx-dev-packages/compare/@salesforce/dev-config@2.1.0...@salesforce/dev-config@2.1.2) (2021-05-11)
 
