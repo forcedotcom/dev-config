@@ -1,6 +1,6 @@
 {
   "name": "@salesforce/dev-config",
-  "version": "2.1.2",
+  "version": "2.1.3",
   "description": "A set of standard typescript config and tslint options for Salesforce projects.",
   "repository": "forcedotcom/dev-config",
   "main": "index.js",
