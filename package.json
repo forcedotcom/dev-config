@@ -18,6 +18,10 @@
     "/tsconfig-strict.json",
     "/tsconfig-test.json",
     "/tsconfig-test-strict.json",
+    "/tsconfig-esm.json",
+    "/tsconfig-strict-esm.json",
+    "/tsconfig-test-esm.json",
+    "/tsconfig-test-strict-esm.json",
     "/prettier.json",
     "/nyc.json",
     "/typedoc.js"
