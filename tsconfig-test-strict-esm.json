@@ -1,0 +1,6 @@
+{
+  "extends": "./tsconfig-strict-esm",
+  "compilerOptions": {
+    "noEmit": true
+  }
+}

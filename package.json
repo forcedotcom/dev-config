@@ -1,6 +1,6 @@
 {
   "name": "@salesforce/dev-config",
-  "version": "4.0.1",
+  "version": "4.0.2-dev.1",
   "description": "A set of standard typescript config and tslint options for Salesforce projects.",
   "repository": "forcedotcom/dev-config",
   "main": "index.js",
@@ -18,6 +18,10 @@
     "/tsconfig-strict.json",
     "/tsconfig-test.json",
     "/tsconfig-test-strict.json",
+    "/tsconfig-esm.json",
+    "/tsconfig-strict-esm.json",
+    "/tsconfig-test-esm.json",
+    "/tsconfig-test-strict-esm.json",
     "/prettier.json",
     "/nyc.json",
     "/typedoc.js"
