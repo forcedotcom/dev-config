@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
-    "module": "commonjs",
-    "target": "es2021",
-    "lib": ["es2021"],
+    "module": "Node16",
+    "target": "ES2022",
+    "lib": ["ES2023"],
     "sourceMap": true,
     "declaration": true,
     "moduleResolution": "node",
