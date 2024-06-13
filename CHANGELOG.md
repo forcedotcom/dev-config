@@ -1,3 +1,12 @@
+# [4.2.0](https://github.com/forcedotcom/dev-config/compare/4.1.0...4.2.0) (2024-06-13)
+
+
+### Features
+
+* node18+ lib/target/module stuff ([#20](https://github.com/forcedotcom/dev-config/issues/20)) ([0a8e0bd](https://github.com/forcedotcom/dev-config/commit/0a8e0bdab214ad53faf47e7539cdd76829c48704))
+
+
+
 # [4.1.0](https://github.com/forcedotcom/dev-config/compare/4.0.2-dev.1...4.1.0) (2023-10-25)
 
 
