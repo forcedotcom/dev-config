@@ -1,3 +1,12 @@
+# [4.3.0](https://github.com/forcedotcom/dev-config/compare/4.2.0...4.3.0) (2024-07-29)
+
+
+### Features
+
+* node16 module resolution ([#21](https://github.com/forcedotcom/dev-config/issues/21)) ([00d9fc3](https://github.com/forcedotcom/dev-config/commit/00d9fc34294cab88c018cdd0936f28fa61019016))
+
+
+
 # [4.2.0](https://github.com/forcedotcom/dev-config/compare/4.1.0...4.2.0) (2024-06-13)
 
 
