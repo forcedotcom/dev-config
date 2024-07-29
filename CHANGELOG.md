@@ -1,3 +1,12 @@
+## [4.3.1](https://github.com/forcedotcom/dev-config/compare/4.3.0...4.3.1) (2024-07-29)
+
+
+### Bug Fixes
+
+* typedoc dropped the "includes" flag ([#22](https://github.com/forcedotcom/dev-config/issues/22)) ([8801242](https://github.com/forcedotcom/dev-config/commit/8801242c5263fac247cbb5bcbf747a38dcba6b4d))
+
+
+
 # [4.3.0](https://github.com/forcedotcom/dev-config/compare/4.2.0...4.3.0) (2024-07-29)
 
 
