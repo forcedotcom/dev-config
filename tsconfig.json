@@ -5,7 +5,7 @@
     "lib": ["ES2023"],
     "sourceMap": true,
     "declaration": true,
-    "moduleResolution": "node",
+    "moduleResolution": "Node16",
     "alwaysStrict": true,
     "noUnusedLocals": true
   }
