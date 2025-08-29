@@ -1,3 +1,12 @@
+## [4.3.2](https://github.com/forcedotcom/dev-config/compare/4.3.1...4.3.2) (2025-08-29)
+
+
+### Bug Fixes
+
+* oss compliance ([93ad440](https://github.com/forcedotcom/dev-config/commit/93ad440599b01486554645c2086d0c5449135538))
+
+
+
 ## [4.3.1](https://github.com/forcedotcom/dev-config/compare/4.3.0...4.3.1) (2024-07-29)
 
 
