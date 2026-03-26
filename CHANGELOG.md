@@ -1,3 +1,12 @@
+## [4.3.3](https://github.com/forcedotcom/dev-config/compare/4.3.2...4.3.3) (2026-03-26)
+
+
+### Bug Fixes
+
+* **deps:** bump minimatch from 3.1.2 to 3.1.5 ([76523f8](https://github.com/forcedotcom/dev-config/commit/76523f838d6022663e1deba53bc4c3b333b276a8))
+
+
+
 ## [4.3.2](https://github.com/forcedotcom/dev-config/compare/4.3.1...4.3.2) (2025-08-29)
 
 
